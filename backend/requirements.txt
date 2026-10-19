@@ -1,0 +1,11 @@
+dotenv==0.9.9
+et_xmlfile==2.0.0
+future==1.0.0
+numpy==2.5.4
+openpyxl==3.1.5
+pandas==3.0.6
+python-dateutil==2.9.0.post0
+python-dotenv==1.2.4
+pyzk==0.9
+six==1.17.0
+tzdata==2026.5
