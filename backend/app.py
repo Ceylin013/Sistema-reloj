@@ -69,7 +69,6 @@ try:
 
         nombre = usuario.name if usuario else "No encontrado"
 
-
         # Interpretar el código de marcación e/s
         if registro.punch == 0:
             estado = "Entrada"
